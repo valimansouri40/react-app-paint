@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-app-paint/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-app-paint/static/js/main.6f46ce7a.chunk.js",
+    "main.js.map": "/react-app-paint/static/js/main.6f46ce7a.chunk.js.map",
+    "runtime-main.js": "/react-app-paint/static/js/runtime-main.fccb6424.js",
+    "runtime-main.js.map": "/react-app-paint/static/js/runtime-main.fccb6424.js.map",
+    "static/js/2.e161edda.chunk.js": "/react-app-paint/static/js/2.e161edda.chunk.js",
+    "static/js/2.e161edda.chunk.js.map": "/react-app-paint/static/js/2.e161edda.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/react-app-paint/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/react-app-paint/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/react-app-paint/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-app-paint/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e161edda.chunk.js.LICENSE.txt": "/react-app-paint/static/js/2.e161edda.chunk.js.LICENSE.txt",
+    "static/media/fill.4e211ed6.svg": "/react-app-paint/static/media/fill.4e211ed6.svg",
+    "static/media/pencil.962e7af9.svg": "/react-app-paint/static/media/pencil.962e7af9.svg",
+    "static/media/rectangle.5112e12f.svg": "/react-app-paint/static/media/rectangle.5112e12f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fccb6424.js",
+    "static/js/2.e161edda.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6f46ce7a.chunk.js"
+  ]
+}
